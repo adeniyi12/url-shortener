@@ -20,7 +20,7 @@ Port = 4000
 
 -Open cloned folder and run `npm install`
 
-- Create a new database in MongoDB called `todos`
+- Create a new database in MongoDB called `urlShortener`
 
   -All other details for the db can be found in the .env file
 
